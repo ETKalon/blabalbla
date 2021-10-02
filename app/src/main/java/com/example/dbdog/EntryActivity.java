@@ -48,7 +48,7 @@ public class EntryActivity extends AppCompatActivity {
                 int textHigh = Integer.parseInt(editTextHigh.getText().toString());
                 int textFury  = Integer.getInteger(editTextFur.getText().toString());
                 editTextColour.getText().toString();
-                Integer.valueOf(editTextWeight.toString();
+                Integer.valueOf(editTextWeight.toString());
                 addDog(view);
 
 
